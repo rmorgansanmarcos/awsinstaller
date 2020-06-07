@@ -1,0 +1,11 @@
+Set-WindowsExplorerOptions -EnableShowHiddenFilesFoldersDrives -EnableShowProtectedOSFiles -EnableShowFileExtensions
+Enable-RemoteDesktop
+
+cinst googlechrome
+cinst fiddler4
+cinst office365business
+cinst dnscontrol-cli
+cinst teamviewer
+cinst chrome-remote-desktop-chrome
+cinst 7zip.install
+cinst adobereader
