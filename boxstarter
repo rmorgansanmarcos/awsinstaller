@@ -3,9 +3,12 @@ Enable-RemoteDesktop
 
 cinst googlechrome
 cinst office365business
-cinst dnscontrol-cli
+cinst eset-antivirus
+cinst firefox
+cinst rocketchat
 cinst teamviewer
 cinst chrome-remote-desktop-chrome
 cinst 7zip.install
 cinst adobereader
 cinst dropbox
+cinst zoom
