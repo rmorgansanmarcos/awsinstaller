@@ -2,8 +2,6 @@ Set-WindowsExplorerOptions -EnableShowHiddenFilesFoldersDrives -EnableShowProtec
 Enable-RemoteDesktop
 
 cinst googlechrome
-cinst office365business
-cinst eset-antivirus
 cinst firefox
 cinst rocketchat
 cinst chrome-remote-desktop-chrome
