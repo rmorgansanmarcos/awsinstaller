@@ -6,10 +6,8 @@ cinst office365business
 cinst eset-antivirus
 cinst firefox
 cinst rocketchat
-cinst teamviewer
 cinst chrome-remote-desktop-chrome
 cinst 7zip.install
 cinst adobereader
 cinst dropbox
 cinst zoom
-cinst microsip
